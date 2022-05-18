@@ -5,7 +5,7 @@ class P2
     	
     	int i=6;
     	i=i++;
-    	System.out.println(i);
+    	System.out.println(i);//
 
     }
 }
